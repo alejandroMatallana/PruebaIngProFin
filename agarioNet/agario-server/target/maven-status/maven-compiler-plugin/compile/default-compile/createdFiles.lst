@@ -1,0 +1,6 @@
+co\edu\eam\ingesoft\pai\agario\servidor\logica\Escenario.class
+co\edu\eam\ingesoft\pai\agario\servidor\logica\LogicaParticula.class
+co\edu\eam\ingesoft\pai\agario\servidor\comm\Servidor.class
+co\edu\eam\ingesoft\pai\agario\servidor\logica\LogicaContrincante.class
+co\edu\eam\ingesoft\pai\agario\servidor\logica\LogicaComida.class
+co\edu\eam\ingesoft\pai\agario\servidor\comm\HiloCliente.class
